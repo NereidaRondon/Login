@@ -5,7 +5,7 @@ REQUIREMENTS:
 
     ✔️Navbar with links
     
-    ✔️Form with Username and Password inputs</li>
+    ✔️Form with Username and Password inputs
     
     ✔️ H3 Login title 
     
