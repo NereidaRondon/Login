@@ -1,1 +1,15 @@
-This class porject required a Navbar and a login form. I used Bootstrap for quick styling. I used React.js to create the form and Navbar components then rendered them to the DOM.
+📓✍️
+This assignment was to create a single page with Create-React app.
+
+REQUIREMENTS: 
+
+    ✔️Navbar with links
+    
+    ✔️Form with Username and Password inputs</li>
+    
+    ✔️ H3 Login title 
+    
+Programming Language: JavaScript
+Framework/Library: React.js
+CSS Framework: Bootstrap
+Tools: VS Code, GitHub, Git
