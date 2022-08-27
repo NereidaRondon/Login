@@ -5,11 +5,14 @@ REQUIREMENTS:
 
     ✔️Navbar with links
     
-    ✔️Form with Username and Password inputs</li>
+    ✔️Form with Username and Password inputs
     
     ✔️ H3 Login title 
     
-Programming Language: JavaScript
-Framework/Library: React.js
-CSS Framework: Bootstrap
-Tools: VS Code, GitHub, Git
+⚪Programming Language: JavaScript
+
+⚪Framework/Library: React.js
+
+⚪CSS Framework: Bootstrap
+
+⚪Tools: VS Code, GitHub, Git
