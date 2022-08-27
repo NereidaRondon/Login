@@ -9,6 +9,9 @@ REQUIREMENTS:
     ✔️H3 Login title 
     
 Programming Language: JavaScript
+
 Framework/Library: React.js
+
 CSS Framework: Bootstrap
+
 Tools: VS Code, GitHub, Git
