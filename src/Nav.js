@@ -1,5 +1,5 @@
 import lock from './lock.png';
-import './Styles.css';
+import './App.css';
 
 export default function Nav(){
     return(

@@ -1,14 +1,11 @@
-import lock from './lock.png';
-import './Styles.css';
+import './App.css';
 
 export default function LoginForm() {
-  
   const clear=(event)=>{
     event.preventDefault();
     document.getElementById('user').value="";
     document.getElementById('pass').value="";
   };  
-
   return (
     
     <div className="container login-box shadow-lg">
@@ -20,10 +17,8 @@ export default function LoginForm() {
               
               <input type="text" name="userNm" class="form-control" id="user" aria-describedby="username"/>
           </div>
-
           <div class="mb-3">
               <label for="exampleInputPassword1" class="form-label">Password</label>
-              
               <input type="password" name="pass" class="form-control" id="pass" aria-describedby="passwordHelpInline"/>
               <div class="col-auto">
                 <span id="passwordHelpInline" class="form-text">
@@ -37,3 +32,4 @@ export default function LoginForm() {
     </div>
   );
 };
+
